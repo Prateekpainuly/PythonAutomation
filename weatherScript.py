@@ -15,7 +15,7 @@ def send_notification(weather_data, condition_threshold):
 
 def daily_weather_update():
     # Replace with your API key, city, and country
-    api_key = "YOUR_API_KEY"
+    api_key = "6e9c1d4b3a02cf8c65904f7b3e84e3d7"
     city = "YourCity"
     country = "YourCountryCode"
 
