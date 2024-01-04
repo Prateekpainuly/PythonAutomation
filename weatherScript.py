@@ -1,5 +1,5 @@
 import requests
-from datetime import datetime
+from datetime as dt
 from apscheduler.schedulers.blocking import BlockingScheduler
 
 def get_weather(api_key, city, country):
